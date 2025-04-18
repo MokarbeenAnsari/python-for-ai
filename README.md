@@ -45,7 +45,7 @@ Each lecture covers an essential Python concept or module that's relevant to AI 
 ## 🔗 Useful Links
 
 - 📺 **Playlist**: [Full YouTube Playlist](https://www.youtube.com/playlist?list=PLRXO6ANg6wvcgSTFrvG-D3rbjsvuTuAjn)
-- 🧠 **Join AI Engineers Community**: [Telegram Group]([https://t.me/your-group-link](https://t.me/AIEngineersClub))
+- 🧠 **Join AI Engineers Community**: [Telegram Group]([https://t.me/your-group-link](https://t.me/AIEngineersClub)
 
 ---
 
