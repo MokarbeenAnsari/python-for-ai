@@ -11,32 +11,32 @@ Each lecture covers an essential Python concept or module that's relevant to AI 
 | Lecture | Topic | YouTube Link | Code |
 |--------|-------|--------------|------|
 | 1 | Why you should learn Python? | [Watch](https://youtu.be/CDf7i-CzHUI) | [Lecture_01](Lecture_01) |
-| 2 | Variables, Data Types & Operators | [Watch](https://youtube.com/your-video-link) | [Lecture_02](Lecture_02) |
-| 3 | Conditional Statements & Loops | [Watch](https://youtube.com/your-video-link) | [Lecture_03](Lecture_03) |
-| 4 | Functions and Scope | [Watch](https://youtube.com/your-video-link) | [Lecture_04](Lecture_04) |
-| 5 | Lists, Tuples & Dictionaries | [Watch](https://youtube.com/your-video-link) | [Lecture_05](Lecture_05) |
-| 6 | Object-Oriented Programming (OOP) | [Watch](https://youtube.com/your-video-link) | [Lecture_06](Lecture_06) |
-| 7 | File Handling | [Watch](https://youtube.com/your-video-link) | [Lecture_07](Lecture_07) |
-| 8 | Exception Handling | [Watch](https://youtube.com/your-video-link) | [Lecture_08](Lecture_08) |
-| 9 | Modules and Packages | [Watch](https://youtube.com/your-video-link) | [Lecture_09](Lecture_09) |
-| 10 | Virtual Environments & pip | [Watch](https://youtube.com/your-video-link) | [Lecture_10](Lecture_10) |
-| 11 | NumPy Basics | [Watch](https://youtube.com/your-video-link) | [Lecture_11](Lecture_11) |
-| 12 | Advanced NumPy | [Watch](https://youtube.com/your-video-link) | [Lecture_12](Lecture_12) |
-| 13 | Pandas Basics | [Watch](https://youtube.com/your-video-link) | [Lecture_13](Lecture_13) |
-| 14 | Data Cleaning with Pandas | [Watch](https://youtube.com/your-video-link) | [Lecture_14](Lecture_14) |
-| 15 | Matplotlib Basics | [Watch](https://youtube.com/your-video-link) | [Lecture_15](Lecture_15) |
-| 16 | Seaborn for Visualization | [Watch](https://youtube.com/your-video-link) | [Lecture_16](Lecture_16) |
-| 17 | Working with CSV, Excel & JSON | [Watch](https://youtube.com/your-video-link) | [Lecture_17](Lecture_17) |
-| 18 | Web Scraping with BeautifulSoup | [Watch](https://youtube.com/your-video-link) | [Lecture_18](Lecture_18) |
-| 19 | APIs and JSON Handling | [Watch](https://youtube.com/your-video-link) | [Lecture_19](Lecture_19) |
-| 20 | Python for Data Analysis | [Watch](https://youtube.com/your-video-link) | [Lecture_20](Lecture_20) |
-| 21 | Introduction to AI & ML | [Watch](https://youtube.com/your-video-link) | [Lecture_21](Lecture_21) |
-| 22 | Scikit-learn Basics | [Watch](https://youtube.com/your-video-link) | [Lecture_22](Lecture_22) |
-| 23 | Regression Algorithms | [Watch](https://youtube.com/your-video-link) | [Lecture_23](Lecture_23) |
-| 24 | Classification Algorithms | [Watch](https://youtube.com/your-video-link) | [Lecture_24](Lecture_24) |
-| 25 | Model Evaluation Techniques | [Watch](https://youtube.com/your-video-link) | [Lecture_25](Lecture_25) |
-| 26 | Projects: AI Use Cases | [Watch](https://youtube.com/your-video-link) | [Lecture_26](Lecture_26) |
-| 27 | Final Wrap-up & Next Steps | [Watch](https://youtube.com/your-video-link) | [Lecture_27](Lecture_27) |
+| 2 | Top 5 Tools to learn AI | [Watch](https://youtu.be/RENFa5eLo9M) | [Lecture_02](Lecture_02) |
+| 3 | Anaconda Masterclass | [Watch](https://youtu.be/zCAbghJTZHc) | [Lecture_03](Lecture_03) |
+| 4 | Mutable and Immutable in Python | [Watch](https://youtu.be/bOtwXmTDDp8) | [Lecture_04](Lecture_04) |
+| 5 | How to print on terminal? | [Watch](https://youtu.be/I7Z9paqAaPc) | [Lecture_05](Lecture_05) |
+| 6 | What is variable? | [Watch](https://youtu.be/uxGkJ3e6xjs) | [Lecture_06](Lecture_06) |
+| 7 | Date types in Python | [Watch](https://youtu.be/q0BrpqXbfv4) | [Lecture_07](Lecture_07) |
+| 8 | Numbers in Python | [Watch](https://youtu.be/6nnppfq9Gag) | [Lecture_08](Lecture_08) |
+| 9 | String in Python | [Watch](https://youtu.be/PG3NrrcLXhc) | [Lecture_09](Lecture_09) |
+| 10 | Booleans in Python | [Watch](https://youtu.be/3WxddJaRE-k) | [Lecture_10](Lecture_10) |
+| 11 | Operators in Python | [Watch](https://youtu.be/7BrLoI06ZTc) | [Lecture_11](Lecture_11) |
+| 12 | Python List | [Watch](https://youtu.be/oqaWQcMN9AE) | [Lecture_12](Lecture_12) |
+| 13 | Tuples in Python | [Watch](https://youtu.be/dcfEf7saUpI) | [Lecture_13](Lecture_13) |
+| 14 | Sets in Python | [Watch](https://youtu.be/258MeT8GWQI) | [Lecture_14](Lecture_14) |
+| 15 | Dictionaries in Python | [Watch](https://youtu.be/BTqLH99x52w) | [Lecture_15](Lecture_15) |
+| 16 | Conditional Statements | [Watch](https://youtu.be/f8w8GDyHjZI) | [Lecture_16](Lecture_16) |
+| 17 | Loops in Python | [Watch](https://youtu.be/8NrBm8huLzA) | [Lecture_17](Lecture_17) |
+| 18 | Functions in Python | [Watch](https://youtu.be/OdazCxfBhUQ) | [Lecture_18](Lecture_18) |
+| 19 | Modules and packages | [Watch](https://youtu.be/JEgn9n-Dt4k) | [Lecture_19](Lecture_19) |
+| 20 | File Handling in Python | [Watch](https://youtu.be/0MLyYgoYPM4) | [Lecture_20](Lecture_20) |
+| 21 | Exception Handling in Python | [Watch](https://youtu.be/9ZW1cj7udU8) | [Lecture_21](Lecture_21) |
+| 22 | What is object oriented programming? | [Watch](https://youtu.be/cLz13HSJhmg) | [Lecture_22](Lecture_22) |
+| 23 | Class & Object | [Watch](https://youtu.be/NR9n0_7YEB8) | [Lecture_23](Lecture_23) |
+| 24 | Encapsulation | [Watch](https://youtu.be/fgZ0GQBmxJw) | [Lecture_24](Lecture_24) |
+| 25 | Inheritance | [Watch](https://youtu.be/5u8UNEljtYg) | [Lecture_25](Lecture_25) |
+| 26 | Abstraction | [Watch](https://youtu.be/Ui_CHFd9TFo) | [Lecture_26](Lecture_26) |
+| 27 | Polymorphism | [Watch](https://youtu.be/PiKhZYewKRg) | [Lecture_27](Lecture_27) |
 
 > 📌 **Note**: YouTube links are placeholders — update them as you upload new content!
 
