@@ -10,7 +10,7 @@ Each lecture covers an essential Python concept or module that's relevant to AI 
 
 | Lecture | Topic | YouTube Link | Code |
 |--------|-------|--------------|------|
-| 1 | Introduction to Python & AI | [Watch](https://youtube.com/your-video-link) | [Lecture_01](Lecture_01) |
+| 1 | Why you should learn Python? | [Watch](https://youtu.be/CDf7i-CzHUI) | [Lecture_01](Lecture_01) |
 | 2 | Variables, Data Types & Operators | [Watch](https://youtube.com/your-video-link) | [Lecture_02](Lecture_02) |
 | 3 | Conditional Statements & Loops | [Watch](https://youtube.com/your-video-link) | [Lecture_03](Lecture_03) |
 | 4 | Functions and Scope | [Watch](https://youtube.com/your-video-link) | [Lecture_04](Lecture_04) |
